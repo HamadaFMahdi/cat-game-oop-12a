@@ -1,6 +1,6 @@
 from cat import Cat
 
-print("Welcome to my Cat Game!")
+print("Welcome to my Cat Game!!")
 
 name = input("Enter Cat name: ")
 colour = input("Enter Cat colour: ")
